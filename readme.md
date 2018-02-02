@@ -1,5 +1,1 @@
-d,fnd,fmgnkf,
-
-rrgrgrgrgr
-
-grgbgrbgbg
+d,fnd,fmgnk
